@@ -34,7 +34,7 @@ class _DatePickerExampleState extends State<DatePickerExample> {
       'thoiGian': '08/08/2024 9:54:35',
       'bonXuat': 'T001',
       'xeNhan': 'T01-PQ',
-      'soPhieu': '00002',
+      'soPhieu': '00003',
       'trangThai': 'Đã xuất',
       'lyDoXuat': 'Chuyển bồn',
       'nguoiGiao': 'Văn Hữu Tính',
